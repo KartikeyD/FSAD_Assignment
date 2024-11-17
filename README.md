@@ -1,4 +1,4 @@
-# build-full-stack-book-store-mern-app
+# build-full-stack-book-exchange-app
 ## How to run this project:
 
 
