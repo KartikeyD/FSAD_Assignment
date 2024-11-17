@@ -1,6 +1,4 @@
 # build-full-stack-book-store-mern-app
-![full-stack-book-exchange-project](/frontend/src/assets/github-cover.png)
-
 ## How to run this project:
 
 
